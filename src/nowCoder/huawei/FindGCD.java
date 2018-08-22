@@ -1,4 +1,4 @@
-package nowCoder;
+package nowCoder.huawei;
 
 /**
  * @author mercy
